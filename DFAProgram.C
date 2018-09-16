@@ -1,4 +1,4 @@
-//Made by Shivam Vatshayan 16SCSE101566
+//Made by Shivam Vatshayan 16SCSE101566 Galgotias university 
 #include <stdio.h>
 #include <string.h>
  
